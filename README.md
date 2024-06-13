@@ -31,8 +31,8 @@ The analysis is based on multiple datasets from Kaggle (https://www.kaggle.com/d
 
 ### Step 1: Clone the repository:
    ```bash
-   git clone https://github.com/MQ-COMP2200-COMP6200/portfolio-part-4-shaimon12.git
-cd portfolio-part-4-shaimon12
+   git clone https://github.com/shaimon12/PortfolioProjects
+cd PortfolioProjects
 ```
 ### Step 2: Install Anaconda
 
@@ -51,7 +51,7 @@ Within Anaconda Navigator:
 
 ### Step 4: Run the Notebook
 
-1. Open the `Portfolio_4.ipynb` file in Jupyter Notebook to access and run the project analysis.
+1. Open the `uefa_champions_league_analysis.ipynb` file in Jupyter Notebook to access and run the project analysis.
 
 ## Notes on Packages
 
