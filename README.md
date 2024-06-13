@@ -63,7 +63,7 @@ Anaconda includes a comprehensive suite of scientific packages sufficient for mo
 
 The project successfully developed two predictive models:
 1. **Linear Regression** Model demonstrated strong predictive power with an R-squared of 82.89%.
-2. **Logistic Regression** Model showed robust performance with over 91% accuracy in classifying players' goal-scoring above or below the median.
+2. **Logistic Regression** Model showed robust performance with over 92% accuracy in classifying players' goal-scoring above or below the median.
 3. **KNN** Model effectively categorized players with an optimized K-value showing peak accuracy, confirming the model's generalizability and effectiveness.
 
 ## Contributing
